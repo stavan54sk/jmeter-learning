@@ -21,15 +21,15 @@ Welcome to the Jmeter Performance Testing repository! Here, you will find a comp
 - 🪟 **Install Java and JMeter on Windows**  
 - 🧪 **Create First JMeter Test**
 - 🧰 **JMeter Toolbar and Menu Options**  
-- 👥 **Understanding Thread Group in JMeter**  
+- 👥 **Thread Group in JMeter**  
 - 📈 **Listeners in JMeter**  
-- 📁 **Understanding Templates in JMeter**  
-- 📏 **Understanding Average, Median, Throughput, and Standard Deviation**  
+- 📁 **Templates in JMeter**  
+- 📏 **Average, Median, Throughput, and Standard Deviation**  
 - ⚠️ **Assertions in JMeter**  
-- 🌐 **Understanding HTTP(s) Test Script Recorder and its Components**  
-- 🔐 **How to Generate JMeter Certificate and Install on Browser**  
+- 🌐 **HTTP(s) Test Script Recorder and its Components**  
+- 🔐 **Generate JMeter Certificate and Install on Browser**  
 - 🎥 **Record Test Script Using HTTP(s) Test Script Recorder in JMeter**  
-- 🧩 **How to Record Test Script Using BlazeMeter Plugin in Chrome Browser**  
+- 🧩 **Record Test Script Using BlazeMeter Plugin in Chrome Browser**  
 - 🧠 **Variables in JMeter**  
 - 🔣 **Functions in JMeter**  
 - 📄 **Parameterisation in JMeter**  
