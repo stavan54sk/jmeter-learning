@@ -21,7 +21,7 @@ Welcome to the Jmeter Performance Testing repository! Here, you will find a comp
 - 🪟 **Install Java and JMeter on Windows**  
 - 🧪 **Create First JMeter Test**
 - 🧰 **JMeter Toolbar and Menu Options**  
-- 👥 **Understanding Thread Group in JMeter**  
+- 👥 **Thread Group in JMeter**  
 - 📈 **Listeners in JMeter**  
 - 📁 **Templates in JMeter**  
 - 📏 **Average, Median, Throughput, and Standard Deviation**  
