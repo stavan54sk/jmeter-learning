@@ -27,8 +27,6 @@ Welcome to the Jmeter Performance Testing repository! Here, you will find a comp
 - 📏 **Average, Median, Throughput, and Standard Deviation**  
 - ⚠️ **Assertions in JMeter**  
 - 🌐 **HTTP(s) Test Script Recorder and its Components**  
-- 🔐 **Generate JMeter Certificate and Install on Browser**  
-- 🎥 **Record Test Script Using HTTP(s) Test Script Recorder in JMeter**  
 - 🧩 **Record Test Script Using BlazeMeter Plugin in Chrome Browser**  
 - 🧠 **Variables in JMeter**  
 - 🔣 **Functions in JMeter**  
