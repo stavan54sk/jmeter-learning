@@ -38,10 +38,5 @@ Welcome to the Jmeter Performance Testing repository! Here, you will find a comp
 - 💬 **Run JMeter Tests Using Command Line**  
 - 📃 **Generate HTML Test Report in JMeter**  
 - 🔄 **Convert a HAR File to a JMeter Test Script**
+- ⚙️ **Handling Test vs. Production Environment**
 
-### Chapter 3: Concept of Continuous Integration and Continuous Delivery
-- 📦 **Concept of Continuous Integration and Continuous Delivery (CI/CD)**  
-- 💻 **GIT Installation on macOS/Windows/Linux and Requirements for CI/CD Setup**  
-- ⬆️ **Push the Test Script to Remote (Online) GitHub Repository**
-- 🛠️ **Setting up Jenkins on Your Machine (macOS and Windows OS)**
-- 🔁 **Run the Test Using GitHub and Jenkins (GitHub and Jenkins Integration)**
